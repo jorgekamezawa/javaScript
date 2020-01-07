@@ -14,7 +14,7 @@ header{
 	margin-bottom: 1em;
 }
 
-header h1{console.log("Paciente invalido");
+header h1{
 }
 header h2{
 	font-size: 2em;
@@ -45,7 +45,7 @@ section h2{
 	display: block;
 	padding-bottom: .5em;
 	border-bottom: 1px solid #ccc;
-	margin-bottom: .5em;console.log("Paciente invalido");
+	margin-bottom: .5em;
 	width: 100%;
 	margin-bottom : .5em;
     table-layout: fixed;
